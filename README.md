@@ -5,7 +5,7 @@
 * Telegram: [@dest1ni18](https://t.me/dest1ni18)
 
 ## Badges
-[![LeetCode Stats](https://leetcode.card.workers.dev/kaziamov?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Dest1ni/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Dest1ni?theme=dark&font=baloo&extension=null)](https://leetcode.com/Dest1ni/)
 
 
 
